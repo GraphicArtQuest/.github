@@ -1,12 +1,7 @@
-## Hi there 👋
+# Welcome!
 
-<!--
+Welcome to the [Graphic Art Quest](www.graphicartquest.com) GitHub page. This site hosts the code you see in the articles on the website.
 
-**Here are some ideas to get you started:**
+# View on YouTube
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Subscribe to the [YouTube channel](https://www.youtube.com/@graphicartquest) to get notified of new art quests, entertainment, and educational content.
