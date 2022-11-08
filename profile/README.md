@@ -1,6 +1,6 @@
 # Welcome!
 
-Welcome to the [Graphic Art Quest](www.graphicartquest.com) GitHub page. This site hosts the code you see in the articles on the website.
+Welcome to the [Graphic Art Quest](https://www.graphicartquest.com) GitHub page. This site hosts the code you see in the articles on the website.
 
 # View on YouTube
 
